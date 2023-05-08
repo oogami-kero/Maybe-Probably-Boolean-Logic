@@ -3,6 +3,7 @@ CS2050 Assignment Fall 2020
 
 Maybe-Probably Logic
 Program to test student understanding by using binary trees, stacks, unittest, and random.
+
 Assignment task: implement build, evaluate, and print functions for our language of maybe-probably logical statement
 
 The primary tasks in this fourth assignment are to implement the following three functions:
